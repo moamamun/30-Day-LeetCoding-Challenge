@@ -29,3 +29,4 @@ var productExceptSelf = function(nums) {
   
     return output
   };
+
